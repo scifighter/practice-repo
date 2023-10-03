@@ -13,7 +13,7 @@
 <ul>
     <li>
     Скриншоты:
-    ![](task2/screenshots/screenshot_1.png)
-    ![](task2/screenshots/screenshot_2.png)
+    <img src = 'task2/screenshots/screenshot_1.png'>
+    <img src = 'task2/screenshots/screenshot_2.png'>
     </li>
 </ul>
