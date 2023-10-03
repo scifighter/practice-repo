@@ -13,6 +13,7 @@
 <ul>
     <li>
     Скриншоты:
+    [![solarized dualmode](https://github.com/altercation/solarized/raw/master/img/solarized-yinyang.png)](#features)
     ![Alt text](/task2/screenshots/screenshot_1.png?raw=true)
     ![Alt text](/task2/screenshots/screenshot_2.png?raw=true)
     </li>
