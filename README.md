@@ -22,5 +22,6 @@
     <li>
     Скриншоты:
     <img src = 'task3/screenshots/screenshot_1.png'>
+    Каждый пользователь
     </li>
 </ul>
