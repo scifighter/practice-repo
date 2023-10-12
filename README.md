@@ -22,6 +22,5 @@
     <li>
     Скриншоты:
     <img src = 'task4/screenshots/screenshot_1.png'>
-    <img src = 'task4/screenshots/screenshot_2.png'>
     </li>
 </ul>
