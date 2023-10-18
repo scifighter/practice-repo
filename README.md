@@ -21,7 +21,7 @@
 <ul>
     <li>
     Скриншоты:
-    <img src = 'task3/screenshots/screenshot_1.png'>
+    <img src = 'task3/screenshots/screenshot_1.jpg'>
     </li>
 </ul>
 <h1>GIT. Задача 4</h1>
